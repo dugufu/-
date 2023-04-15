@@ -1,3 +1,8 @@
+---
+description: >-
+  来gitbook看https://app.gitbook.com/o/qdJaRY7eVZ3gVz8xeSsE/s/Wr3OxOJvlvhi9Pyc97yE/
+---
+
 # 底层代码的logic编排
 
 ES1 到 ES6 是 JavaScript 语言的版本演化历程，链接说明如下：
