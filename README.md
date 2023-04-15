@@ -1,15 +1,9 @@
-# Welcome!
+# 底层代码的logic编排
 
-## Welcome to MyAPI
+ES1 到 ES6 是 JavaScript 语言的版本演化历程，链接说明如下：
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
-
-## Want to jump right in?
-
-Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
-
-{% content-ref url="quick-start.md" %}
-[quick-start.md](quick-start.md)
+{% content-ref url="es1-to-es6.md" %}
+[es1-to-es6.md](es1-to-es6.md)
 {% endcontent-ref %}
 
 ## Want to deep dive?
