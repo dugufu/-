@@ -1,4 +1,4 @@
-# ES1 to ES6
+# ES1 to ES6 版本蜕变
 
 ### 历史 :tada:
 
@@ -13,7 +13,7 @@
 
 {% tabs %}
 {% tab title="ES1" %}
-```
+```javascript
 // 使用 var 声明变量
 var x = 5;
 var y = 10;
@@ -81,11 +81,14 @@ console.log(str.replace("world", "John"));
 
 {% tab title="ES4" %}
 ```
-ES4 是一个备受争议的版本，因为它引入了很多新的特性，包括类型推断、类型注释、函数重载等，这些特性使得 JavaScript 更加像是一种传统的面向对象语言。由于社区反对，ES4 最终没有发布。
+ES4 是一个备受争议的版本，因为它引入了很多新的特性，
+包括类型推断、类型注释、函数重载等，这些特性使得 
+JavaScript 更加像是一种传统的面向对象语言。由于社区反对，ES4 最终没有发布。
 
 ES5 (2009):
 
-ES5 引入了很多新的特性，包括严格模式、Array 的一些方法、JSON 对象、Function.prototype.bind() 等。
+ES5 引入了很多新的特性，包括严格模式、Array 的一些方法、JSON 对象、
+Function.prototype.bind() 等。
 ```
 {% endtab %}
 

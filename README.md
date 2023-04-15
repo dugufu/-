@@ -7,8 +7,8 @@ description: >-
 
 ES1 到 ES6 是 JavaScript 语言的版本演化历程，链接说明如下：
 
-{% content-ref url="es1-to-es6.md" %}
-[es1-to-es6.md](es1-to-es6.md)
+{% content-ref url="es1-to-es6-ban-ben-tui-bian.md" %}
+[es1-to-es6-ban-ben-tui-bian.md](es1-to-es6-ban-ben-tui-bian.md)
 {% endcontent-ref %}
 
 ## Want to deep dive?
